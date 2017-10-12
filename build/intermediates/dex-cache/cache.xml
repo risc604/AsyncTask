@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\GitRepository\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\GitRepository\AsyncTask\app\build\intermediates\pre-dexed\debug\classes-6cbec939107bbb84f19f38098c65fb1b9a56842a.jar" />
+    </item>
+    <item
+        jar="D:\Android_SDK\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\GitRepository\AsyncTask\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-c90ab3d69fc5bc7bffa1f2c193c63d681d75bc5c.jar" />
+    </item>
+    <item
+        jar="D:\GitRepository\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\GitRepository\AsyncTask\app\build\intermediates\pre-dexed\debug\classes-aed6673baa150c9ec6aa5edcfae36c87a7df663e.jar" />
+    </item>
+    <item
+        jar="D:\GitRepository\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\GitRepository\AsyncTask\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-d1e2ee7dcc7e76bc219b087b61baac581ae4e878.jar" />
+    </item>
+
+</items>
